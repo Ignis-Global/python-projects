@@ -10,9 +10,8 @@ A simple Python app to calculate savings, investments, and loan repayments.
 - Git & GitHub  
 
 ## ⚙️ Installation
-```bash
 # Clone the repository
-git clone https://github.com/your-username/finance-calculator.git
+git clone https://github.com/Ignis-Global/finance-calculator.git
 cd finance-calculator
 
 # Run the app
